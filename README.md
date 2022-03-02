@@ -1,6 +1,6 @@
 #### Hi and welcome to my Github :smiley:
 
-Here are some ideas to get you started:
+Here are some facts to know me:
 
 - 🌱 I am interested in data analysis techniques, machine learning and data mining
 - :dart: I’m looking to collaborate on any project related to my interest
