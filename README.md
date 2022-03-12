@@ -8,8 +8,8 @@ Here are some facts to know me:
 - ⚡ Fun fact: I like C-programming
 
 <!--
--->
 <img align="right" alt="GIF" src="https://github.com/naeimrf/naeimrf/blob/main/b.gif" width="200" height="128" />
+-->
 
 
 **Languages and Tools:**
