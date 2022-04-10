@@ -3,7 +3,7 @@
 Here are some facts to know me:
 
 - 🌱 I am interested in data analysis techniques, machine learning and data mining
-- :dart: I’m looking to collaborate on any project related to my interest
+- :dart: I’m looking to collaborate in any project related to my interest
 - :heavy_check_mark: To reach me, send an email or a message on Linkedin 
 - ⚡ Fun fact: I like C-programming
 
