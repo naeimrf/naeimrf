@@ -1,4 +1,4 @@
-#### Hi and welcome to my Github :smiley:
+#### Hi and welcome to my Github
 
 Here are some facts to know me:
 
